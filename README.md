@@ -55,7 +55,6 @@ The program obtains three specific car models, namely, "Datsun 710, Lotus Europa
 6. An if-else statement is used to check if selected_cars has the correct number of rows and columns.
 
 ### Repository Structure 
-
-    -cars.csv #Dataset
     -JACOB_2ECE_B_PA3.ipynb #Main Jupyter Notebook
     -README.md # Project Documentation
+     -cars.csv #Dataset
